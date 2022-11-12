@@ -1,4 +1,7 @@
-# The Leangs İngilizce Data Seti Oluşturma Projesidir.
+# The Leangs
+
+### Description
+**The Leangs is an English Data Set Creation Project.**
 
 ### Contribution guidelines
 
