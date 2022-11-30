@@ -1,0 +1,8 @@
+CREATE TABLE sentence (
+	id SERIAL PRIMARY KEY,
+	word VARCHAR(50) NOT NULL,
+	sentence VARCHAR(50) NOT NULL,
+	sense VARCHAR(50) NOT NULL,
+	level VARCHAR(50) NOT NULL,
+	sound VARCHAR(50) NOT NULL,
+);
